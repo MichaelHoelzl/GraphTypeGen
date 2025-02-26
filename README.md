@@ -88,7 +88,7 @@ async function getUser(id: string): Promise<[User | null, any | null]> {
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/GraphTypeGen.git
+   git clone https://github.com/MichaelHoelzl/GraphTypeGen.git
    cd GraphTypeGen
    ```
 
